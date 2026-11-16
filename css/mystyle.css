@@ -4,6 +4,9 @@ body{
 
 }
 
+#domu{
+    margin-top: 10rem !important;
+}
 
  p{
     font-size: 20px;
