@@ -71,3 +71,7 @@ form button{
 footer{
     margin-top: 100px;
 }
+
+ul{
+    list-style: none;
+}
