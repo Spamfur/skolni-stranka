@@ -1,0 +1,56 @@
+
+body{
+    background:linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 124, 199, 1) 48%, rgba(121, 83, 237, 1) 100%) !important;
+
+}
+
+
+ p{
+    font-size: 20px;
+ }
+.content{
+    font-size: 60px;
+}
+
+.content-btn{
+    width: 125px;
+    height: 50px;
+    border-radius: 25px;
+    
+}
+
+.fs-lg{
+    font-size: 45px;
+}
+
+.fs-md{
+    font-size: 35px;
+}
+
+.card-width{
+    width: 700px;
+
+}
+
+.container .card{
+    border: 3px solid black;
+}
+
+form{
+    width: 800px;
+}
+
+form button{
+    width: 100px;
+    align-self: center;
+}
+
+#jmeno,#mail{
+    max-width: 250px;
+}
+
+#zprava{
+    max-width: 500px;
+    max-height: 250px;
+}
+
